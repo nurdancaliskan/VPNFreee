@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Liberty_VPN.iml" filepath="$PROJECT_DIR$/.idea/modules/Liberty_VPN.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Liberty_VPN.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.iml" filepath="$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/vpnLib/Liberty_VPN.vpnLib.unitTest.iml" />
+    </modules>
+  </component>
+</project>

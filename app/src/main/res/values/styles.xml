@@ -1,0 +1,58 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#F4F4F4</item>
+        <item name="colorPrimaryDark">#F4F4F4</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">@color/white</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@android:color/transparent</item>
+        <!-- Customize your theme here. -->
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+
+    </style>
+
+
+    <style name="SubscriptionCard">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:elevation">2dp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginLeft">20dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:layout_marginRight">20dp</item>
+        <item name="android:background">@drawable/transparent</item>
+        <item name="android:padding">12dp</item>
+    </style>
+
+    <style name="drawer_card">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">@dimen/size_20</item>
+        <item name="android:layout_marginStart">@dimen/size_20</item>
+        <item name="android:layout_marginEnd">@dimen/size_20</item>
+        <item name="android:layout_marginRight">@dimen/size_20</item>
+        <item name="android:layout_marginTop">@dimen/size_8</item>
+        <item name="android:layout_marginBottom">@dimen/size_8</item>
+        <item name="android:background">@drawable/server_selection_bg</item>
+        <item name="android:clickable">true</item>
+        <item name="android:focusable">true</item>
+        <item name="android:foreground">?attr/selectableItemBackground</item>
+    </style>
+
+    <style name="drawerExpandIcon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/size_6</item>
+        <item name="android:src">@drawable/ic_arrow_right_icon</item>
+    </style>
+    <style name="drawerMainIcon">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">@dimen/size_14</item>
+    </style>
+
+
+</resources>

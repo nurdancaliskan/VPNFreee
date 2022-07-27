@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514335098136",
+    "project_id": "vpnapps-ecdc7",
+    "storage_bucket": "vpnapps-ecdc7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514335098136:android:71f61f91954d0984e0ca6d",
+        "android_client_info": {
+          "package_name": "com.liberty.apps.studio.libertyvpn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514335098136-u3hs663tgl2ahv2som4k08j2d821slns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW0mK5L8bqtbjukPldeXU7dfWWRBd3bY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514335098136-u3hs663tgl2ahv2som4k08j2d821slns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
