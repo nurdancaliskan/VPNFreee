@@ -1,7 +1,12 @@
 
+## Info
+<li><a> With VPN Free, you can connect to the server you want and enjoy the free internet.
+You are not tracked and your data is not stored.</a></li>
 
-## Built With 
+
+## Built With
 <p>
+<img src="https://www.vectorlogo.zone/logos/google_play/google_play-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg">
